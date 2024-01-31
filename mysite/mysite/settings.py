@@ -26,7 +26,7 @@ SECRET_KEY = '-&=lf#8&wn1wu!ui1d!afb66p(nr%lu=&+ci_uroogeyz1ml)4'
 DEBUG = True
 
 ALLOWED_HOSTS = ['azucarmango.pythonanywhere.com']
-
+# ALLOWED_HOSTS = []
 
 # Application definition
 
